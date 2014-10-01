@@ -90,7 +90,7 @@ public class HeadlineData {
 							}
 						}
 					} else {
-						//addToBag(fields[0], fields[2]);
+						addToBag(fields[0], fields[2]);
 					}
 				}
 
